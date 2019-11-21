@@ -1,0 +1,8 @@
+{
+  id: @employee.id,
+  first_name: @employee.first_name,
+  last_name: @employee.last_name,
+  email: @employee.email,
+  phone_number: @employee.phone_number,
+  job_title: @employee.job_title
+}
